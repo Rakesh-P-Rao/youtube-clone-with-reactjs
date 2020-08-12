@@ -1,0 +1,17 @@
+.headerBlock article {
+    display: flex;
+    background-color: #fff;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 7px 1px #eee;
+}
+
+.headerBlock article div {
+    flex: 1;
+}
+
+.menuBlock {
+    display: flex;
+}
+
